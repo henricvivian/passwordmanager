@@ -1,0 +1,14 @@
+password-manager/
+│
+├── src/
+│   ├── __init__.py
+│   ├── password_manager.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_password_manager.py
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
